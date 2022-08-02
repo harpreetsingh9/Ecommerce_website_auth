@@ -1,4 +1,4 @@
-# Ecommerce_wesite_auth
+# Ecommerce_website_auth
 An ecommerce website with functionality of user login and signup
 ## Live demo - https://dry-lowlands-16856.herokuapp.com/
 
@@ -18,7 +18,7 @@ MongoDB
 ![Sign up screen](https://raw.githubusercontent.com/harpreetsingh9/Ecommerce_wesite_auth/main/register.png)
 
 ### Home Screen
-![Sign up screen](https://raw.githubusercontent.com/harpreetsingh9/Ecommerce_wesite_auth/main/home.png)
+![Home Screen](https://raw.githubusercontent.com/harpreetsingh9/Ecommerce_wesite_auth/main/home.png)
 
 ### Quick Start
 go to backend folder and run command-
