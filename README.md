@@ -1,9 +1,15 @@
 # Ecommerce_wesite_auth
 An ecommerce website with functionality of user login and signup
+## Live demo - https://dry-lowlands-16856.herokuapp.com/
 
 ## Ecommerce website with login and logout
-## User can login and logout and return to Home page.
-## Technology used are- React, NodeJs, ExpressJs and MongoDB
+## Technology used are- 
+```
+React
+NodeJs
+ExpressJs
+MongoDB
+```
 
 ### Login Screen
 ![Login screen](https://raw.githubusercontent.com/harpreetsingh9/Ecommerce_wesite_auth/main/login.png)
