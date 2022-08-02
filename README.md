@@ -6,13 +6,13 @@ An ecommerce website with functionality of user login and signup
 ## Technology used are- React, NodeJs, ExpressJs and MongoDB
 
 ### Login Screen
-![Login screen](./login.png)
+![Login screen](https://raw.githubusercontent.com/harpreetsingh9/Ecommerce_wesite_auth/main/login.png)
 
 ### Sign up Screen
-![Sign up screen](./register.png)
+![Sign up screen](https://raw.githubusercontent.com/harpreetsingh9/Ecommerce_wesite_auth/main/register.png)
 
 ### Home Screen
-![Sign up screen](./home.png)
+![Sign up screen](https://raw.githubusercontent.com/harpreetsingh9/Ecommerce_wesite_auth/main/home.png)
 
 ### Quick Start
 go to backend folder and run command-
