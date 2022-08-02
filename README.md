@@ -6,13 +6,13 @@ An ecommerce website with functionality of user login and signup
 ## Technology used are- React, NodeJs, ExpressJs and MongoDB
 
 ### Login Screen
-![Login screen](./images/login.png)
+![Login screen](./login.png)
 
 ### Sign up Screen
-![Sign up screen](./images/signup.png)
+![Sign up screen](./register.png)
 
 ### Home Screen
-![Sign up screen](./images/home.png)
+![Sign up screen](./home.png)
 
 ### Quick Start
 go to backend folder and run command-
@@ -33,3 +33,7 @@ npm start or yarn start
 ```
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### The main work in this is the login and logout functionality
+if a user logins then return to the Homepage 
+and if logged user logout from the website then return to the register/Signin page.
